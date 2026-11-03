@@ -1,0 +1,6 @@
+{
+  "name": "AGROGUARD – Smart Crop Storage Monitoring System",
+  "description": "Autonomous multi-crop storage monitoring dashboard with Central Head Unit and mobile Sensor Body Rovers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
